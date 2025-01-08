@@ -23,7 +23,7 @@ $description = "Reliable coach and minibus hire services in Reading for corporat
 
             <p>Choosing a coach company in Reading is not just about hiring transportation; it is about ensuring a seamless travel experience. These companies prioritize customer satisfaction by providing well-maintained fleets, experienced drivers, and flexible itineraries. From day trips to long-distance journeys, their services are designed to cater to diverse requirements, making them a trusted partner for various travel needs.</p>
 
-            <p>Whether you need a spacious coach or a smaller vehicle for <strong><a href="https://onlinequrantuition.github.io/coachhirereading/">Minibus hire Reading</a></strong>, these services are ideal for both local and long-distance travel. The convenience, comfort, and reliability they offer make them a preferred choice among businesses, schools, and tourists alike.</p>
+            <p>Whether you need a spacious coach or a smaller vehicle for <strong><a href="https://minibus-hire-reading.co.uk/">Minibus hire Reading</a></strong>, these services are ideal for both local and long-distance travel. The convenience, comfort, and reliability they offer make them a preferred choice among businesses, schools, and tourists alike.</p>
         </section>
 
         <section>
